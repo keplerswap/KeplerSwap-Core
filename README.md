@@ -8,7 +8,7 @@ KeplerSwap will be the best platform for DeFi.**
   
   Follow us
 
-  - [Web: http://keplerswap.io/](http://keplerswap.io/)
+  - [Web: https://keplerswap.io/](http://keplerswap.io/)
 
   - [Twitter: https://twitter.com/keplerswap](https://twitter.com/keplerswap)
 
