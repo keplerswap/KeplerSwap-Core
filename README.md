@@ -4,8 +4,7 @@ Digital currency will be the highest liquidity medium of exchange;
 Decentralized Finance will be the best framework for digital finance;
 KeplerSwap will be the best platform for DeFi.**
  
- **Click [here](https://github.com/keplerswap/KeplerSwap-Core/blob/master/KeplerSwap-%20White%20Paper%20V1.0.pdf) see the full version of KeplerSwap Whitepaper**
-  
+ 
   Follow us
 
   - [Web: https://keplerswap.io/](http://keplerswap.io/)
